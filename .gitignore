@@ -1,0 +1,17 @@
+# Arquivos de Ambiente Virtual Python
+.venv/
+env/
+venv/
+
+# Arquivos de cache do Python e Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Arquivos de configuração do VSCode (geralmente específico do usuário)
+.vscode/
+
+# Pasta de Dados Brutos (Boas práticas recomendam não versionar dados brutos grandes)
+# Seus arquivos CSV são grandes, então vamos ignorá-los.
+DADOS/
+
